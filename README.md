@@ -15,5 +15,3 @@
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoh11x)](https://github.com/anuraghazra/github-readme-stats)
-
-Estudante de Ciência da Computação com experiência em monitoramento de teleatendimento e trabalho autônomo em conserto de computadores, formatação e habilidades em linguagens de programação e sistemas operacionais.
