@@ -7,7 +7,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=joaoh11x&color=blue&style=for-the-badge)
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoh11x&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoh11x&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
