@@ -45,9 +45,9 @@ The project focuses on simplifying VPN management by providing a web interface f
 
 ## GitHub Stats
 
-![João Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoh11x\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![João Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoh11x&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoh11x\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoh11x&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Let's Connect
 
